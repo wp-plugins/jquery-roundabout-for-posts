@@ -23,9 +23,15 @@ This plugin utilizes the jQuery Roundabout plugin by Fred LeBlanc to output your
 
 == Frequently Asked Questions ==
 
+View the demo here:
+
+http://www.wyliehobbs.com/demos/jquery-roundabout-for-wordpress-posts/
+
+If you have any suggestions for new features or options, feel free to start a support thread or email me.
 
 == Screenshots ==
 
+2. Example slider
 
 == Changelog ==
 
